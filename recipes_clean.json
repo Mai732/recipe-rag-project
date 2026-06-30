@@ -244,27 +244,6 @@
   },
   {
     "record_id": 10,
-    "title": "Campbell's Green Bean Casserole",
-    "source_url": "https://www.allrecipes.com/recipe/151595/campbells-green-bean-casserole/",
-    "category": "Dinner",
-    "description": "",
-    "ingredients": [
-      "2 2/3 cups French's French Fried Onions, divided",
-      "8 cups cooked cut green beans",
-      "2 (10.5 ounce) cans Campbell's Condensed Cream of Mushroom Soup",
-      "1 cup milk",
-      "2 teaspoons soy sauce",
-      "¼ teaspoon ground black pepper"
-    ],
-    "instructions": [
-      "Preheat the oven to 350 degrees F (175 degrees C).",
-      "Stir 1 1/3 fried onions, green beans, soup, milk, soy sauce, and pepper together in a 3-quart casserole dish. Dotdash Meredith Food Studios",
-      "Bake in the preheated oven until hot, about 25 minutes. Dotdash Meredith Food Studios",
-      "Stir casserole; top with remaining 1 1/3 cups fried onions. Bake 5 minutes more. Dotdash Meredith Food Studios"
-    ]
-  },
-  {
-    "record_id": 11,
     "title": "Watermelon-Mint Paletas",
     "source_url": "https://www.allrecipes.com/recipe/223490/watermelon-mint-paletas/",
     "category": "Desserts",
@@ -285,7 +264,7 @@
     ]
   },
   {
-    "record_id": 12,
+    "record_id": 11,
     "title": "Orange Party Cake",
     "source_url": "https://www.allrecipes.com/recipe/15678/orange-party-cake-i/",
     "category": "Desserts",
@@ -305,7 +284,7 @@
     ]
   },
   {
-    "record_id": 13,
+    "record_id": 12,
     "title": "Spinach and Strawberry Salad",
     "source_url": "https://www.allrecipes.com/recipe/16409/spinach-and-strawberry-salad/",
     "category": "Salads",
@@ -323,6 +302,24 @@
     "instructions": [
       "Toss spinach and strawberries together in a large bowl.",
       "Whisk oil, sugar, vinegar, sesame seeds, poppy seeds, and paprika together in a medium bowl; pour over spinach and strawberries, and toss to coat."
+    ]
+  },
+  {
+    "record_id": 13,
+    "title": "Raspberry Balsamic Vinaigrette Dressing",
+    "source_url": "https://www.allrecipes.com/recipe/241621/raspberry-balsamic-vinaigrette-dressing/",
+    "category": "Salads",
+    "description": "",
+    "ingredients": [
+      "¼ cup vegetable oil",
+      "2 tablespoons raspberry balsamic vinegar",
+      "1 tablespoon balsamic vinegar",
+      "1 tablespoon brown sugar",
+      "1 clove garlic, minced",
+      "½ teaspoon honey Dijon mustard"
+    ],
+    "instructions": [
+      "Combine oil, raspberry balsamic vinegar, balsamic vinegar, brown sugar, garlic, and mustard in a sealable jar. Seal the jar and shake vigorously until dressing is well-combined. Refrigerate until flavors combine, at least 1 hour."
     ]
   },
   {
@@ -974,23 +971,61 @@
   },
   {
     "record_id": 42,
-    "title": "Jen's Heavenly Egg Salad",
-    "source_url": "https://www.allrecipes.com/recipe/103767/jens-heavenly-egg-salad/",
-    "category": "Salads",
+    "title": "Traditional Mexican Guacamole",
+    "source_url": "https://www.allrecipes.com/recipe/221286/traditional-mexican-guacamole/",
+    "category": "Appetizers & Snacks",
     "description": "",
     "ingredients": [
-      "6 eggs",
-      "¼ cup mayonnaise",
-      "¼ cup chopped green onions",
-      "½ lemon, juiced",
-      "1 teaspoon Dijon mustard",
-      "½ teaspoon prepared yellow mustard",
+      "2 avocados, peeled and pitted",
+      "1 cup chopped tomatoes",
+      "¼ cup chopped onion",
+      "¼ cup chopped cilantro",
+      "2 tablespoons lemon juice",
+      "1 jalapeno pepper, seeded and minced (Optional)",
       "salt and ground black pepper to taste"
     ],
     "instructions": [
-      "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool under cold running water, and peel.",
-      "Combine mayonnaise, green onions, lemon juice, Dijon mustard, and yellow mustard in a large bowl until well combined.",
-      "Chop eggs into big chunks; add to the bowl with dressing. Gently stir until evenly combined; season with salt and black pepper."
+      "Mash avocados in a bowl until creamy.",
+      "Mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. Season with salt and pepper."
+    ]
+  },
+  {
+    "record_id": 43,
+    "title": "Roasted Pumpkin Seeds",
+    "source_url": "https://www.allrecipes.com/recipe/13768/roasted-pumpkin-seeds/",
+    "category": "Appetizers & Snacks",
+    "description": "",
+    "ingredients": [
+      "1 ½ cups raw whole pumpkin seeds",
+      "2 teaspoons butter, melted",
+      "1 pinch salt"
+    ],
+    "instructions": [
+      "Preheat the oven to 300 degrees F (150 degrees C). Dotdash Meredith Food Studios",
+      "Toss seeds in a large bowl with the butter and salt. Spread in a single layer on a baking sheet; bake until golden, stirring occasionally, about 45 minutes."
+    ]
+  },
+  {
+    "record_id": 44,
+    "title": "Easy Spanakopita",
+    "source_url": "https://www.allrecipes.com/recipe/215825/spanikopita/",
+    "category": "Appetizers & Snacks",
+    "description": "",
+    "ingredients": [
+      "2 (10 ounce) packages frozen chopped spinach, thawed and well drained",
+      "½ cup crumbled feta cheese",
+      "½ cup shredded mozzarella cheese",
+      "½ cup grated Parmesan cheese",
+      "1 clove garlic, minced",
+      "½ teaspoon salt",
+      "1 (16 ounce) package whole wheat phyllo dough",
+      "½ cup unsalted butter, melted"
+    ],
+    "instructions": [
+      "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet. Mix the spinach, feta cheese, mozzarella cheese, Parmesan cheese, garlic, and salt in a bowl.",
+      "Arrange one sheet of phyllo dough on a clean work surface and brush with melted butter. Cover the remaining phyllo dough with a damp towel. Place a second sheet of phyllo on top and brush with butter, then place a third sheet on top. Cut the buttered phyllo lengthwise into four strips.",
+      "Place about 1 tablespoon of the spinach mixture on the bottom of each strip. Take the bottom right corner and fold the dough over the filling to make a triangle. Fold the bottom left corner up to make another triangle. Continue folding until all the dough is folded. Arrange the stuffed triangles, seam-side down, on the prepared baking sheet. Lightly brush the triangle with butter. Repeat with the remaining phyllo dough and spinach filling.",
+      "Bake spanakopita triangles in the preheated oven until golden brown, about 20 minutes. Cool slightly before serving."
     ]
   }
 ]
