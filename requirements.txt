@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+numpy
+rank-bm25
+streamlit
