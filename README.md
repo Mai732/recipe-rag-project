@@ -12,7 +12,7 @@ An AI-powered recipe question-answering assistant built using Retrieval-Augmente
 
 1. Clone the repository
 2. Install dependencies:
-3. Create a `.env` file based on `.env.example`:
+3. Create .gitignore based on `.env` to protect Api_Key
 4. Run the notebooks in order
 
 ## Data Source
